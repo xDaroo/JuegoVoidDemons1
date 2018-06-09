@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "026f73b2-5c7d-41ab-8327-b99f22c0fbfe",
+            "Value": {
+                "id": "290599c0-5cc2-4f7e-aa84-d68109154526",
+                "resourcePath": "sprites\\samcarry\\samcarry.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "0bf5f200-3fd6-4bb8-8de4-5f288229a7a2",
             "Value": {
                 "id": "8bc6cd08-e017-4edf-a11d-2b3cd3a6c180",
