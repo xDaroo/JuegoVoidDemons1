@@ -79,6 +79,14 @@
             }
         },
         {
+            "Key": "3e672f55-1d04-4f7d-8cf8-3e0c6e015f10",
+            "Value": {
+                "id": "a0e26d99-bde9-464c-b2d8-535abb97e64f",
+                "resourcePath": "sprites\\sprite7\\sprite7.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "418f9fb5-377a-423c-82ab-8f796abfe9ca",
             "Value": {
                 "id": "528cfe1b-a91a-4278-8766-665cc3d4739f",
