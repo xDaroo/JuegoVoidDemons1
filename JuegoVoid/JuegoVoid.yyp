@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "18bcded1-769e-4db0-bc32-b468a30421b6",
+            "Value": {
+                "id": "3af4c143-3101-4d78-a9d8-c727922ccfdc",
+                "resourcePath": "sprites\\sprPlayer1Muerto\\sprPlayer1Muerto.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "1d047a1d-2bd8-4ad6-a02b-0578f9981efb",
             "Value": {
                 "id": "a76b2da8-8813-4074-8886-9577d398d92f",
